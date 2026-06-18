@@ -293,7 +293,11 @@
         "-y",
         "@mcp_factory/canva-mcp-server"
       ]
+    },
+    "node_repl": {
+      "command": "/Applications/Codex.app/Contents/Resources/cua_node/bin/node_repl",
+      "args": []
     }
   },
-  "updated_at": "2026-06-16T07:52:53Z"
+  "updated_at": "2026-06-18T09:03:32Z"
 }
