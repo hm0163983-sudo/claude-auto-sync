@@ -297,7 +297,14 @@
     "node_repl": {
       "command": "/Applications/Codex.app/Contents/Resources/cua_node/bin/node_repl",
       "args": []
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
     }
   },
-  "updated_at": "2026-06-18T09:03:32Z"
+  "updated_at": "2026-06-24T13:03:51Z"
 }
