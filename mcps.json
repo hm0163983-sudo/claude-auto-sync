@@ -304,7 +304,16 @@
         "-y",
         "@modelcontextprotocol/server-sequential-thinking"
       ]
+    },
+    "open-design": {
+      "command": "/usr/local/bin/node",
+      "args": [
+        "/Users/admin/open-design/apps/daemon/dist/cli.js",
+        "mcp",
+        "--daemon-url",
+        "http://127.0.0.1:7456"
+      ]
     }
   },
-  "updated_at": "2026-06-24T13:03:51Z"
+  "updated_at": "2026-06-29T07:27:01Z"
 }
